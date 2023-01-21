@@ -16,7 +16,7 @@ To write a program to find the GCD of two numbers using function.
 ## Program:
 Program to find the gcd of two number using function.
 
-![gcd of two number](gcd.png)
+![output](b.png)
 ```
 Developed by: A.Ashwin Kumar
 RegisterNumber:  22001702
